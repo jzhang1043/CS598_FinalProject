@@ -27,6 +27,6 @@ http://www.cs.umd.edu/~sen/lbc-proj/LBC.html
 ```
 # Usage
 ```
-comond lines showed in CS598FinalProject.ipynb
+command lines showed in CS598FinalProject.ipynb
 python train.py
 ```
