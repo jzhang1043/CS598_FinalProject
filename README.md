@@ -64,3 +64,5 @@ python train.py
 |Washington |0.836|
 |Wisconsin|0.823|
 
+![image](data_s.png)
+
