@@ -24,8 +24,8 @@ https://github.com/tkipf/keras-gcn/tree/master
 # Dataset:
 ```
 http://www.cs.umd.edu/~sen/lbc-proj/LBC.html
-![data_s](https://user-images.githubusercontent.com/71730024/236384675-56d3e17a-bcde-41ed-95be-2bb35f8f5416.png)
 ```
+![image](data_s.png)
 # Usage
 ```
 command lines showed in CS598FinalProject.ipynb
@@ -64,5 +64,4 @@ python train.py
 |Washington |0.836|
 |Wisconsin|0.823|
 
-![image](data_s.png)
 
