@@ -54,11 +54,6 @@ python train.py
 
 | Dataset | Classification Accuracy |
 | ------------- | ------------- |
-| 0.00001  | 0.155 |
-| 0.0001   | 0.138 |
-| 0.001  | 0.340 |
-| 0.01   | 0.824 |
-| 0.1  | 0.838 |
 |Cornell |0.829|
 |Texas|0.834|
 |Washington |0.836|
