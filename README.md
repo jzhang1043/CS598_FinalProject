@@ -24,6 +24,7 @@ https://github.com/tkipf/keras-gcn/tree/master
 # Dataset:
 ```
 http://www.cs.umd.edu/~sen/lbc-proj/LBC.html
+![Screenshot](data_s.png)
 ```
 # Usage
 ```
